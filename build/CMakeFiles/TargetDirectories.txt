@@ -1,3 +1,0 @@
-/home/hoang/workspace/StreamClient/build/CMakeFiles/rebuild_cache.dir
-/home/hoang/workspace/StreamClient/build/CMakeFiles/StreamClient.dir
-/home/hoang/workspace/StreamClient/build/CMakeFiles/edit_cache.dir
